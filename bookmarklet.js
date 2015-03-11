@@ -17,4 +17,4 @@ if (redirect == undefined){
 	redirect = "";
 }
 console.log(redirect);
-window.location.assign(redirect);
+//window.location.assign(redirect);

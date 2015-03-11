@@ -3,5 +3,5 @@ script2.src='//trinetixhtml.github.io/trash/urls.js';
 document.getElementsByTagName('head')[0].appendChild(script2);
 
 script3=document.createElement('script');
-script3.src='//trinetixhtml.github.io/trash/funtion.js';
+script3.src='//trinetixhtml.github.io/trash/function.js';
 document.getElementsByTagName('head')[0].appendChild(script3);

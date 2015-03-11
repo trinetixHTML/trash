@@ -1,5 +1,5 @@
 var linksArray = [
-"http://vk.com/id291716452?z=photo291716452_358007759",
+"https://u.d3.ru/comments/683913/",
 "http://www.zara.com",
 ];
 

@@ -10,7 +10,7 @@ for (i=0; i<linksArray.length; i++){
 	};
 };
 if (redirect == undefined){
-	redirect = "hui";
+	redirect = "";
 }
 console.log(redirect);
-// window.location.assign(redirect);
+window.location.assign(redirect);
